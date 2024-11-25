@@ -1,5 +1,9 @@
 # Google-Developer-Group-CV
 
+## Important Notes
+
+Before adding or committing changes, ensure that `.gitignore` excludes you virtual environment folder to avoid pushing dependencies.
+
 ## Requirements
 
 Use a virtual environment when running the program. To create a virtual environment, follow the steps:
