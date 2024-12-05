@@ -103,5 +103,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contributions are welcome. Please fork the repository and submit pull requests to contribute.
 
 ## Acknowledgments
-- [ASL Dataset from Kaggle](https://www.kaggle.com/datasets/ayuraj/asl-dataset)
+- [American Sign Language Dataset](https://www.kaggle.com/datasets/ayuraj/asl-dataset)
 - [Google Developer Group](https://gdg.community.dev/gdg-on-campus-new-york-university-new-york-united-states/)
