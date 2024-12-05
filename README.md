@@ -88,11 +88,13 @@ classifier.train()
 - NumPy
 - Matplotlib
 
-## Future Development
-- Web application interface
-- Interactive learning exercises
-- Progress tracking
-- Performance analytics
+## Web application interface
+
+
+### Function
+1. Interactive learning exercises
+2. Progress tracking
+3. Performance analytics
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
