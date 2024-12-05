@@ -30,8 +30,7 @@ setup(
         'camera',
         'data_collection'
     ],
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Ashley Liu, Alex Xie, Veronica Zhao",
     description="ASL Classifier with real-time camera detection",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
