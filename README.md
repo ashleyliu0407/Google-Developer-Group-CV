@@ -1,4 +1,5 @@
-# Google-Developer-Group-CV - ASL Classifier with Real-time Camera Detection
+# Google-Developer-Group-CV 
+# ASL Classifier with Real-time Camera Detection
 
 ## Important Notes
 
