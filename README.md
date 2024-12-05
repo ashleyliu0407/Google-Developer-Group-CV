@@ -1,5 +1,11 @@
-# Google-Developer-Group-CV 
-## ASL Classifier with Real-time Camera Detection
+### Google-Developer-Group-CV
+<div align="center">
+   
+---
+# AI-Powered Visual Sign Language Mastery Reimagined
+## Teaching Hands to Talk, Pixels to Listen
+
+</div>
 
 An interactive American Sign Language (ASL) learning platform that uses computer vision and deep learning to provide real-time feedback on ASL gestures. The system employs Convolutional Neural Networks to recognize ASL letters (A-Z) and numbers (0-9).
 
