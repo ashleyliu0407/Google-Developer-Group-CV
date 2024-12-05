@@ -26,6 +26,14 @@ To deactivate the virtual environment, simply run: `deactivate`
 - Dense layers with sigmoid activation for binary classification
 - Individual classifiers for each ASL letter and number
 
+### Dataset
+
+The model uses the ASL Dataset from Kaggle. To use this code:
+
+1. Set up your Kaggle API credentials
+2. The dataset will be automatically downloaded and unzipped
+3. Images should be organized in folders by letter/number
+
 ### Dataset Structure
 ```
 asl_dataset/
@@ -44,6 +52,12 @@ asl_dataset/
 - 80-20 train-validation split
 - Early stopping and learning rate reduction
 - Separate models for each letter/number
+
+### Save Format
+Trained models are saved in the 'model_serialization' directory with the naming convention:
+```bash
+asl_model_[letter/number].keras
+```
 
 ## Running the Camera
 To test the camera file, follow the instructions from the requirements section to set up the environment. After doing so, you can run the camera file in the virtual environment:
