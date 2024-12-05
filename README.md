@@ -69,7 +69,6 @@ python camera.py
 
 ### Model Training
 ```python
-# Train individual letter classifier
 classifier = ASLBinaryClassifier(letter='A')
 classifier.prepare_data()
 classifier.build_model()
