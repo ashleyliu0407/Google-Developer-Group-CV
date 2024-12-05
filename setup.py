@@ -31,7 +31,7 @@ setup(
         'data_collection'
     ],
     author="Ashley Liu, Alex Xie, Veronica Zhao",
-    description="ASL Classifier with real-time camera detection",
+    description="ASL Classifier with Real-time Camera Detection",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/yourusername/asl-classifier",
