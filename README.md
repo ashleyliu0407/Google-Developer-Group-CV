@@ -96,6 +96,11 @@ classifier.train()
 2. Progress tracking
 3. Performance analytics
 
+## Core Team
+- [Alex Xie](https://github.com/axie22)
+- [Ashley Liu](https://github.com/ashleyliu0407)  
+- [Veronica Zhao](https://github.com/verozhao)
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
