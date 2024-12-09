@@ -110,3 +110,4 @@ Contributions are welcome. Please fork the repository and submit pull requests t
 ## Acknowledgments
 - [American Sign Language Dataset](https://www.kaggle.com/datasets/ayuraj/asl-dataset)
 - [Google Developer Group](https://gdg.community.dev/gdg-on-campus-new-york-university-new-york-united-states/)
+- [full stack structure](https://github.com/fastapi/full-stack-fastapi-template)
